@@ -45,4 +45,4 @@
 #
 
 <br/>
-<p>Full mod list and their credits can be found here:&nbsp;<a href="https://legacy.curseforge.com/minecraft/modpacks/create-beyond-earth-3/relations/dependents" rel="nofollow">https://legacy.curseforge.com/minecraft/modpacks/create-beyond-earth/relations/dependents</a></p>
+<p>Full mod list and their credits can be found&nbsp;<a href="https://curseforge.com/minecraft/modpacks/create-beyond-earth-3/relations/dependents" rel="nofollow">here</a></p>
